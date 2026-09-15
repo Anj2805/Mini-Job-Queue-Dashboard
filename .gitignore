@@ -1,0 +1,9 @@
+node_modules/
+dist/
+build/
+database.sqlite
+.env
+.DS_Store
+.neon
+.env.local
+*.tsbuildinfo
